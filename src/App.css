@@ -1,0 +1,31 @@
+.editForm{
+   position: fixed;
+   left: 0;
+   top: 0;
+   width: 100vw;
+   height: 100vh;
+   backdrop-filter: blur(10px);
+   display: grid;
+   place-content: center;
+   form{
+    width: 400px;
+   }
+}
+body{
+   background: #000;
+}
+
+.from-cont{
+   height:calc(100vh - 50px);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.form-card:hover{
+   box-shadow: 0 0 20px blue;
+}
+.close{
+   position: absolute;
+   top: 1rem;
+   right: 1rem;
+}

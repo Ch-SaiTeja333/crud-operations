@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "11b1",
+      "username": "vijaykumar",
+      "emailid": "vijay@gmail.com",
+      "dob": "2025-07-22"
+    },
+    {
+      "id": "4eb5",
+      "username": "manasa",
+      "emailid": "manasa@gmail.com",
+      "dob": "2025-07-04"
+    }
+  ]
+}
