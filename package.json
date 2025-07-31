@@ -1,12 +1,12 @@
 {
-  "homepage":"https://Ch-SaiTeja333.github.io/crud-operations",
+  "homepage": "https://Ch-SaiTeja333.github.io/crud-operations",
   "name": "user-operations",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
@@ -18,7 +18,8 @@
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-hook-form": "^7.60.0",
-    "react-router": "^7.7.0"
+    "react-router": "^7.7.0",
+    "react-router-dom": "^7.7.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.30.1",
